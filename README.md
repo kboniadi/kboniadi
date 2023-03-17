@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kboniadi&label=Profile%20views&color=0e75b6&style=flat" alt="kboniadi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kboniadi&theme=onedark&no-bg=true" alt="kboniadi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kboniadi&theme=onedark" alt="kboniadi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kord_boniadi" target="blank"><img src="https://img.shields.io/twitter/follow/kord_boniadi?logo=twitter&style=for-the-badge" alt="kord_boniadi" /></a> </p>
 
