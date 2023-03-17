@@ -26,9 +26,9 @@
 <br></br>
 <br></br>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kboniadi&show_icons=true&locale=en&layout=compact" alt="kboniadi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kboniadi&show_icons=true&locale=en&layout=compact&theme=onedark" alt="kboniadi" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kboniadi&show_icons=true&locale=en" alt="kboniadi" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kboniadi&" alt="kboniadi" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kboniadi&show_icons=true&locale=en&theme=onedark" alt="kboniadi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kboniadi&theme=onedark" alt="kboniadi" />
 </p>
